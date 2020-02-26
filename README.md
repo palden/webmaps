@@ -4,4 +4,4 @@
 ### feature groups that shows volcanoes and population of countries with colors
 ### (data file may not be accurate) for testing purpose. 
 
-![webmap with volcano and population coloring for countries]('https://github.com/palden/webmaps/blob/master/webmap.png')
+![webmap with volcano and population coloring for countries](https://github.com/palden/webmaps/blob/master/webmap.png)
